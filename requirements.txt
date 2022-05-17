@@ -1,0 +1,7 @@
+monai==0.8.1
+torchvision
+matplotlib
+pandas
+scikit-image
+tqdm
+imio # convert to .nii
